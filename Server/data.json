@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Dibyajyoti Prakash",
+    "dob": "2024-01-09",
+    "bloodGroup": "B+ve",
+    "id": "268915"
+  },
+  {
+    "name": "Anshu Ankit",
+    "dob": "2024-01-09",
+    "bloodGroup": "B+ve",
+    "id": "280829",
+    "attendance": [
+      {
+        "time": "2:39:55 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "2:46:56 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "2:55:18 PM",
+        "date": "2024-01-09"
+      }
+    ]
+  },
+  {
+    "name": "Priyanka Nayak",
+    "dob": "2024-01-09",
+    "bloodGroup": "B+ve",
+    "id": "529004",
+    "attendance": [
+      {
+        "time": "2:52:50 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:26:59 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:43:15 PM",
+        "date": "2024-01-09"
+      }
+    ]
+  },
+  {
+    "name": "Kalyani Sahoo",
+    "dob": "1993-05-09",
+    "bloodGroup": "O+ve",
+    "id": "703322",
+    "attendance": [
+      {
+        "time": "3:10:19 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:10:56 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:11:17 PM",
+        "date": "2024-01-09"
+      }
+    ]
+  },
+  {
+    "name": "Prasanjit Rout",
+    "dob": "2000-07-29",
+    "bloodGroup": "A+ve",
+    "id": "545286",
+    "attendance": [
+      {
+        "time": "3:38:19 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:38:53 PM",
+        "date": "2024-01-09"
+      },
+      {
+        "time": "3:39:13 PM",
+        "date": "2024-01-09"
+      }
+    ]
+  },
+  {
+    "name": "Anshu Ankit",
+    "dob": "1990-08-08",
+    "bloodGroup": "B+ve",
+    "id": "212120",
+    "attendance": [
+      {
+        "time": "4:53:51 PM",
+        "date": "2024-01-09"
+      }
+    ]
+  }
+]
